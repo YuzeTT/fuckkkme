@@ -12,7 +12,7 @@
 
 一个存放奇怪东西的地方
 
-> 所有者：Iriscafe Team. 上传者：YuzeTT Bucket：fuckkkme
+> 所有者：Iriscafe Team. 上传者：YuzeTT Bucket：fuckkkme/iriscafe
 
 <br>
 
