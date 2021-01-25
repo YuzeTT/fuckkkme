@@ -14,9 +14,11 @@
 
 > 所有者：Iriscafe Team.  上传者：YuzeTT
 
+<br>
+
 <table>
     <tr>
-        <td align=center><h3>下载</h3>接口简单易懂，可轻松接入。<br><img width=300></td>
+        <td align=center><h3>下载</h3>大小：13.6 GB 文件名：iriscafe-chapter1-world<br><img width=300></td>
     </tr>
 </table>
 
