@@ -12,13 +12,13 @@
 
 一个存放奇怪东西的地方
 
-> 所有者：Iriscafe Team.  上传者：YuzeTT
+> 所有者：Iriscafe Team. 上传者：YuzeTT Bucket：fuckkkme
 
 <br>
 
 <table>
     <tr>
-        <td align=center><h3><a href="#">下载</a></h3>大小：13.6 GB 文件名：iriscafe-chapter1-world<br><img width=400></td>
+        <td align=center><h3><a href="https://fuckkkme.oss-cn-hangzhou.aliyuncs.com/iriscafe/iriscafe-chapter1-world.7z">立即下载</a></h3>大小：13.6 GB 文件名：iriscafe-chapter1-world<br><img width=400></td>
     </tr>
 </table>
 
