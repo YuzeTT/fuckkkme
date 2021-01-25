@@ -18,7 +18,7 @@
 
 <table>
     <tr>
-        <td align=center><h3><a href="https://fuckkkme.oss-cn-hangzhou.aliyuncs.com/iriscafe/iriscafe-chapter1-world.7z">立即下载</a></h3>大小：13.6 GB 文件名：iriscafe-chapter1-world.zip<br>可下载时间段：2021年1月25日20:08:28 - 2021年2月5日20:08:34<br><img width=400></td>
+        <td align=center><h3><a href="https://fuckkkme.oss-cn-hangzhou.aliyuncs.com/iriscafe/iriscafe-chapter1-world.7z">立即下载</a></h3>大小：13.6 GB 文件名：iriscafe-chapter1-world.zip<br>删除时间：2021年2月5日20:08:34<br><img width=400></td>
     </tr>
 </table>
 
